@@ -1,0 +1,88 @@
+body {
+    margin: 0px;
+    font-family: "Jura";
+    background-color: #313131;
+    color: white;
+    font-size: 20px;
+}
+
+.body1 {
+    text-align: left;
+    margin: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #444444;
+    padding: 20px;
+}
+
+.banniere {
+    background-image: url("https://www.hdwallpapers.in/download/sunset_silhouette_mountains-HD.jpg");
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
+
+.info {
+    color: #979797;
+}
+
+h2 {
+    color: #fded5d;
+    font-size: 60px;
+    text-align: center;
+    font-family: "Racing Sans One";
+}
+img {
+    border-radius: 20px;
+}
+
+.wow:hover {
+    transform: scale(1.05);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+ol {
+    color: #ffffff;
+}
+
+table {
+    color: #b9b9b9;
+    background-color: #444444;
+    border-width: 0px;
+    border-style: none;
+    text-align: center;
+    padding: 5px;
+}
+
+tr, td {
+    border-width: 0px;
+    border-style: none;
+    border-color: #79797973;
+    padding: 5px;
+}
+
+th {
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+}
+
+#formfooter
+{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 12px;
+    color: #21618c;
+}
